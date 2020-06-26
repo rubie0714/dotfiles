@@ -8,7 +8,7 @@ if [ ! -d "$HOME/.antigen" ]; then
 fi
 
 if [ ! -d "$HOME/.dotfiles" ]; then
-    git clone https://github.com/arthurc0102/dotfiles.git $HOME/.dotfiles
+    git clone https://github.com/rubie0714/dotfiles.git $HOME/.dotfiles
 fi
 
 if [ ! -d "$HOME/.tmux/plugins/tpm" ]; then
